@@ -19,4 +19,4 @@ A simple Contact Us page built using React, CSS, and Vite.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/contact-us-page.git
+git clone https://github.com/CodePandaAkhilesh/contactUsPage
